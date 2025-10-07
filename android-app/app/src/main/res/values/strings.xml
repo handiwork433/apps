@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Telegram Text App</string>
+    <string name="loading">Loading…</string>
+    <string name="error_generic">Unable to load texts. Check your connection.</string>
+    <string name="last_updated">Last updated: %1$s</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    <string name="token_prompt">Enter your access token</string>
+    <string name="token_instruction">Use the Telegram bot to obtain your personal token and paste it here.</string>
+    <string name="token_placeholder">Access token</string>
+    <string name="save_token">Save token</string>
+    <string name="open_bot">Open Telegram bot</string>
+    <string name="manage_in_bot">Manage texts in Telegram</string>
+    <string name="change_token">Use another token</string>
+    <string name="subscription_expires">Subscription active until %1$s</string>
+    <string name="subscription_inactive_title">Subscription required</string>
+    <string name="subscription_was_until">Last active until %1$s</string>
+</resources>

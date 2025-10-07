@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Тексты из Telegram</string>
+    <string name="loading">Загрузка…</string>
+    <string name="error_generic">Не удалось загрузить тексты. Проверьте подключение.</string>
+    <string name="last_updated">Последнее обновление: %1$s</string>
+    <string name="retry">Повторить</string>
+    <string name="refresh">Обновить</string>
+    <string name="token_prompt">Введите свой токен доступа</string>
+    <string name="token_instruction">Получите персональный токен в Telegram-боте и вставьте его сюда.</string>
+    <string name="token_placeholder">Токен доступа</string>
+    <string name="save_token">Сохранить токен</string>
+    <string name="open_bot">Открыть Telegram-бота</string>
+    <string name="manage_in_bot">Управлять текстами в Telegram</string>
+    <string name="change_token">Использовать другой токен</string>
+    <string name="subscription_expires">Подписка активна до %1$s</string>
+    <string name="subscription_inactive_title">Нужна активная подписка</string>
+    <string name="subscription_was_until">Последняя оплата действовала до %1$s</string>
+</resources>
